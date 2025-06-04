@@ -5,3 +5,6 @@ var typed = new Typed(".text",{
     backDelay : 1000,
     loop : true
 });
+function hello(){
+    window.location.href = 'https://portfolio-phi-three-63.vercel.app/';
+}
