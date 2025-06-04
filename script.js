@@ -6,4 +6,4 @@ var typed = new Typed(".text",{
     loop : true
 });
 
-window.location.href = 'https://portfolio-phi-three-63.vercel.app/';
+// window.location.href = 'https://portfolio-phi-three-63.vercel.app/';
